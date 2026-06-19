@@ -15,11 +15,11 @@ This section contains documentation for instruments, machines and self-developed
 
 Each equipment page should contain:
 
-- purpose;
-- location;
-- responsible person;
-- required training;
-- basic operating procedure;
-- maintenance information;
-- known problems;
-- related processes and safety documents.
+- `purpose`;
+- `location`;
+- `responsible person`;
+- `required training`;
+- `basic operating procedure`;
+- `maintenance information`;
+- `known problems`;
+- `related processes and safety documents`.

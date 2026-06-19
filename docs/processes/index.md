@@ -15,13 +15,13 @@ This section documents the fabrication and characterization processes used in th
 
 Each process page should describe:
 
-- purpose;
-- required equipment;
-- required materials;
-- important parameters;
-- process steps;
-- expected results;
-- common problems;
-- related safety documents.
+- `purpose`;
+- `required equipment`;
+- `required materials`;
+- `important parameters`;
+- `process steps`;
+- `expected results`;
+- `common problems`;
+- `related safety documents`.
 
 Only approved procedures should be marked as established SMF processes.
