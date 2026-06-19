@@ -1,0 +1,61 @@
+site_name: Student Microelectronics Foundry
+site_description: Documentation platform of the Student Microelectronics Foundry
+
+#repo_name: smf-documentation
+#repo_url: https://github.com/USERNAME/smf-documentation
+edit_uri: edit/main/docs/
+
+theme:
+  name: material
+  language: en
+  favicon: .\images\favicon-32x32.png
+  logo: .\images\SMF-Logo-Handta.png
+
+  features:
+    - navigation.sections
+    - navigation.top
+    - navigation.footer
+    - search.suggest
+    - search.highlight
+    - content.action.edit
+    - content.code.copy
+  palette:
+    - scheme: default
+      primary: blue
+      accent: deep purple
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - scheme: slate
+      primary: blue
+      accent: deep purple
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+
+nav:
+  - Home: index.md
+  - Getting started:
+      - Overview: getting-started/index.md
+      - Contributing: getting-started/contributing.md
+  - Organization: organization/index.md
+  - Safety: safety/index.md
+  - Processes: processes/index.md
+  - Equipment: equipment/index.md
+  - Projects: projects/index.md
+
+plugins:
+  - search
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - tables
+  - toc:
+      permalink: true
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.tasklist:
+      custom_checkbox: true
+
+copyright: Copyright &copy; 2026 Student Microelectronics Foundry
