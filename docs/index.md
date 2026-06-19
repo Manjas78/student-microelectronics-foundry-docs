@@ -24,7 +24,3 @@ The documentation collects:
 !!! warning "Documentation is not authorization"
 
     Laboratory work may only be performed after the required safety training, equipment instruction and approval.
-```
-
-
-
