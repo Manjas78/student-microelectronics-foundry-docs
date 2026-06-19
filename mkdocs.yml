@@ -1,8 +1,8 @@
 site_name: Student Microelectronics Foundry
 site_description: Documentation platform of the Student Microelectronics Foundry
 
-#repo_name: smf-documentation
-#repo_url: https://github.com/USERNAME/smf-documentation
+repo_name: SMF-docs
+repo_url: https://github.com/Manjas78/student-microelectronics-foundry-docs
 edit_uri: edit/main/docs/
 
 theme:
